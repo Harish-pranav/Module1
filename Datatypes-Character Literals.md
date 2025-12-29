@@ -19,3 +19,4 @@ print(char2)
 
 
 ## Result
+Therefore to write a Python program that prints the characters 'T' and 'a' using character literals is compiled and the output is verified successfully.
